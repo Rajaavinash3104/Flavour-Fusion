@@ -149,5 +149,5 @@ This project demonstrates:
 ## 👨‍💻 Author
 
 **Karlapati Raja Avinash**
-AI & Full-Stack Develope
+
 📍 India
