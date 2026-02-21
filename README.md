@@ -1,6 +1,4 @@
-Here is a **professional GitHub README project description** for your project. I have also aligned it with your uploaded project document  and your actual Streamlit + Gemini implementation.
 
----
 
 # 🍲 Flavour Fusion – AI-Driven Recipe Blog Generator
 
